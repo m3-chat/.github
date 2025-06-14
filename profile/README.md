@@ -1,5 +1,5 @@
 # M3 Chat
-M3 Chat (or m3-chat) is a 100% open-source and free AI chat web app with no account requirements with 13 models.
+M3 Chat (or m3-chat) is a 100% open-source and free AI chat web app with no account requirements with 14 models.
 
 ## Why use M3 Chat?
 Most AI chat web app services are slow, expensive, or require accounts (with heavy message limits). M3 Chat is an open-source, free, no account required, AI chat web app with unlimited messages.
@@ -15,10 +15,11 @@ I'm currently running all models on a **Mac Studio M3 Ultra** (which is why it's
 - [x]  Gemma 7B (Chat Capable) - `gemma:7b`
 - [x]  Qwen 1.5 7B (Chat & Reasoning) - `qwen:7b`
 - [x]  Qwen 2.5 Coder (Code) - `qwen2.5-coder`
+- [x]  DeepSeek V2 16B (General Purpose) - `deepseek-v2:16b`
 - [x]  DeepSeek Coder 6.7B (Code) - `deepseek-coder:6.7b`
 - [x]  StarCoder2 7B (Coding) - `starcoder2:7b`
-- [x]  Magistral (Lightweight Custom) - `magistral`
-- [x]  Devstral (Experimental) - `devstral`
+- [x]  Magistral (Chat & Reasoning) - `magistral`
+- [x]  Devstral (Coding) - `devstral`
 
 ## Repositories
 | Repository | Description | License |
