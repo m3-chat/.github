@@ -1,5 +1,5 @@
 # M3 Chat
-M3 Chat (or m3-chat) is a 100% open-source and free AI chat web app with no account requirements with 14 models.
+M3 Chat (or m3-chat) is a 100% open-source and free AI chat web app with no account requirements with 16 models.
 
 ## Why use M3 Chat?
 Most AI chat web app services are slow, expensive, or require accounts (with heavy message limits). M3 Chat is an open-source, free, no account required, AI chat web app with unlimited messages.
@@ -7,6 +7,7 @@ I'm currently running all models on a **Mac Studio M3 Ultra** (which is why it's
 
 ## Models
 - [x]  LLaMA 3 8B (General Purpose) - `llama3:8b`
+- [x]  LLaMA 2 (Uncensored) - `llama2-uncensored`
 - [x]  Gemma 3 (General Purpose) - `gemma3`
 - [x]  Gemma (General Purpose) - `gemma`
 - [x]  Phi-3 Mini (Fastest) - `phi3:mini`
