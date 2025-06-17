@@ -26,7 +26,7 @@ I'm currently running all models on a **Mac Studio M3 Ultra** (which is why it's
 | Repository | Description | License |
 | --- | --- | --- |
 | [frontend](https://github.com/m3-chat/frontend) | Deployment and setup scripts for M3 Chat’s frontend and backend. | GNU Affero General Public License v3.0 |
-| [backend](https://github.com/m3-chat/backend) | Express server running Ollama-powered AI models and streaming responses to clients in real-time. | GNU Affero General Public License v3.0 |
+| [backend](https://github.com/m3-chat/backend) | DOTNET server running Ollama-powered AI models and streaming responses to clients in real-time. | GNU Affero General Public License v3.0 |
 | [desktop](https://github.com/m3-chat/desktop) | Cross-platform desktop wrapper for m3-chat, built with Tauri | GNU Affero General Public License v3.0 |
 | [infra](https://github.com/m3-chat/infra) | Deployment and setup scripts for M3 Chat’s frontend and backend. | GNU Affero General Public License v3.0 |
 | [status](https://github.com/m3-chat/status) | Fetches status JSON and visualizes 2 weeks of service uptime with color-coded bar charts.  | MIT |
