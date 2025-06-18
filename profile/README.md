@@ -13,6 +13,7 @@ I'm currently running all models on a **Mac Studio M3 Ultra** (which is why it's
 - [x] Gemma (General Purpose) — `gemma`
 - [x] Phi-3 Mini (Fastest) — `phi3:mini`
 - [x] Mistral 7B (Balanced) — `mistral`
+- [x] OpenCoder 8B (Code) - `opencoder:8b`
 - [x] Gemma 2B (Tiny + Reasonable) — `gemma:2b`
 - [x] Gemma 7B (Chat Capable) — `gemma:7b`
 - [x] Qwen 1.5 7B (Chat & Reasoning) — `qwen:7b`
