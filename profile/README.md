@@ -35,6 +35,8 @@ I'm currently running all models on a **Mac Studio M3 Ultra** (which is why it's
 | [infra](https://github.com/m3-chat/infra) | Deployment and setup scripts for M3 Chat’s frontend and backend. | GNU Affero General Public License v3.0 |
 | [status](https://github.com/m3-chat/status) | Fetches status JSON and visualizes 2 weeks of service uptime with color-coded bar charts.  | MIT |
 | [tui](https://github.com/m3-chat/tui) | M3 Chat in your terminal! | GNU Affero General Public License v3.0 |
+| [sdk](https://github.com/m3-chat/sdk) | The JavaScript/TypeScript SDK for interacting with the M3 Chat API.  | Apache-2.0 |
+| [go-sdk](https://github.com/m3-chat/go-sdk) | The Golang SDK for interacting with the M3 Chat API.  | Apache-2.0 |
 | [.github](https://github.com/m3-chat/.github) | Welcome to [@m3-chat](https://github.com/m3-chat) 's GitHub ✌️ | MIT |
 | [discussions](https://github.com/m3-chat/discussions) | Home of @m3-chat 's GitHub discussions | MIT |
 
