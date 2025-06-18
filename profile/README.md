@@ -1,5 +1,5 @@
 # M3 Chat
-M3 Chat (or m3-chat) is a 100% open-source and free AI chat web app with no account requirements with 18 models.
+M3 Chat (or m3-chat) is a 100% open-source and free AI chat web app with no account requirements with 19 models.
 
 ## Why use M3 Chat?
 Most AI chat web app services are slow, expensive, or require accounts (with heavy message limits). M3 Chat is an open-source, free, no account required, AI chat web app with unlimited messages.
