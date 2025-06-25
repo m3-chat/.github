@@ -31,7 +31,7 @@ I'm currently running all models on a **Mac Studio M3 Ultra** (which is why it's
 | Repository | Description | License | Main language |
 | --- | --- | --- | --- |
 | [frontend](https://github.com/m3-chat/frontend) | Next.js web app for M3 Chat — streaming AI chat interface with a clean, minimal design. | GNU Affero General Public License v3.0 | TypeScript |
-| [backend](https://github.com/m3-chat/backend) | DOTNET server running Ollama-powered AI models and streaming responses to clients in real-time. | GNU Affero General Public License v3.0 | TypeScript |
+| [backend](https://github.com/m3-chat/backend) | Elysia server running Ollama-powered AI models and streaming responses to clients in real-time. | GNU Affero General Public License v3.0 | TypeScript |
 | [desktop](https://github.com/m3-chat/desktop) | Cross-platform desktop wrapper for m3-chat, built with Tauri | GNU Affero General Public License v3.0 | Rust |
 | [infra](https://github.com/m3-chat/infra) | Deployment and setup scripts for M3 Chat’s frontend and backend. | GNU Affero General Public License v3.0 | Go |
 | [status](https://github.com/m3-chat/status) | Fetches status JSON and visualizes 2 weeks of service uptime with color-coded bar charts.  | MIT | TypeScript |
